@@ -8,6 +8,13 @@
     font-weight: normal;
     font-style: normal;
 }
+    body {
+  font-family: 'serif';
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+}
+
   </style>
 </head>
    
