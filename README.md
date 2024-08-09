@@ -1,10 +1,15 @@
 <html lang="en">
 <head>
-   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/bitmaks/cm-web-fonts@latest/fonts.css">
+
   <style>
-    body {
-      font-family: "Computer Modern Serif", serif;
-    }
+      @font-face {
+    font-family: "Computer Modern Serif", serif;
+    src: url("https://cdn.jsdelivr.net/gh/bitmaks/cm-web-fonts") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
   </style>
 </head>
    
