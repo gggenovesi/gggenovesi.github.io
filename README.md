@@ -8,6 +8,15 @@
   <h1>
     Giorgio G. Genovesi
   </h1>
+<nav>
+  <li>home</li>
+  <li>research</li>
+</nav>
+<section>
+  School of Mathematics
+  University of Leeds
+  email: mmggg [chiocciola] leeds [punto] ac [punto] uk
+</section>
   
 </body>
 </html>
