@@ -34,9 +34,9 @@
     Giorgio G. Genovesi
   </h1>
 <section>
-<p>School of Mathematics</p>
-<p>University of Leeds</p>
-<p> email: mmggg [chiocciola] leeds [punto] ac [punto] uk </p>
+<p>School of Mathematics<br>
+University of Leeds<br>
+ email: mmggg [chiocciola] leeds [punto] ac [punto] uk </p>
   <article>
     <header>
       <hgroup>
