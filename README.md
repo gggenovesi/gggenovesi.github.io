@@ -9,9 +9,10 @@
     Giorgio G. Genovesi
   </h1>
 <section>
-<h6>School of Mathematics</h4>
-<h6>University of Leeds</h4>
-<h6> email: mmggg [chiocciola] leeds [punto] ac [punto] uk </h4> 
+ <p>School of Mathematics</p>
+ <p>University of Leeds</p>
+<p> email: mmggg [chiocciola] leeds [punto] ac [punto] uk </p>
+
 </section>
   
 </body>
