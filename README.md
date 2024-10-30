@@ -1,22 +1,9 @@
 <html lang="en">
-<head>
 
-  <style>
-      @font-face {
-    font-family: "Computer Modern Serif", serif;
-    src: url("https://cdn.jsdelivr.net/gh/bitmaks/cm-web-fonts") format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-    body {
-  font-family: 'serif';
-  font-weight: 400;
-  font-style: normal;
-  line-height: 1.5;
-}
+  <head>
 
-  </style>
 </head>
+
    
 <body>
   <h1>
@@ -34,7 +21,8 @@ University of Leeds<br>
         </h2>
       </hgroup>
     </header>
-        
+       <h4> Reverse mathematics of regular countable second countable spaces </h4>
+         <p> 30/10/24  	arXiv:2410.22227 [math.LO] https://arxiv.org/abs/2410.22227</p>
   </article>
 </section>
   
