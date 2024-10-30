@@ -22,7 +22,9 @@ University of Leeds<br>
       </hgroup>
     </header>
        <h4> Reverse mathematics of regular countable second countable spaces </h4>
-         <p> 30/10/24  	arXiv:2410.22227 [math.LO] https://arxiv.org/abs/2410.22227</p>
+         <p> 30/10/24  	arXiv:2410.22227 [math.LO] 
+<a href="https://arxiv.org/abs/2410.22227">https://arxiv.org/abs/2410.22227</a>
+ </p>
   </article>
 </section>
   
