@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="[https://gggenovesi.github.io/serif.css]">
+<link rel="stylesheet" type="text/css" href="https://gggenovesi.github.io/serif.css">
 <html lang="en">
 
   <head>
