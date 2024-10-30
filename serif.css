@@ -1,28 +1,8 @@
-@font-face {
-  font-family: "Computer Modern Serif";
-  font-style: normal;
-  font-weight: normal;
-  font-display: swap;
-  src: url("CMUSerif-Roman.woff2");
-}
-@font-face {
-  font-family: "Computer Modern Serif";
-  font-style: normal;
-  font-weight: bold;
-  font-display: swap;
-  src: url("CMUSerif-Bold.woff2");
-}
-@font-face {
-  font-family: "Computer Modern Serif";
-  font-style: italic;
-  font-weight: normal;
-  font-display: swap;
-  src: url("CMUSerif-Italic.woff2");
-}
-@font-face {
-  font-family: "Computer Modern Serif";
-  font-style: italic;
-  font-weight: bold;
-  font-display: swap;
-  src: url("CMUSerif-BoldItalic.woff2");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
+
+
+.react-code-text, .react-code-lines, pre, code, .blob-code, .blob-code-marker {
+
+  font-family: 'Comic Code Ligatures', 'Fira Code', monospace !important;
+
 }
