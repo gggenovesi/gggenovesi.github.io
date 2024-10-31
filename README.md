@@ -1,8 +1,9 @@
-<link rel="stylesheet" type="text/css" href="https://gggenovesi.github.io/serif.css">
+
 <html lang="en">
 
   <head>
-
+       <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <link rel="stylesheet" type="text/css" href="serif.css">
 </head>
 
    
