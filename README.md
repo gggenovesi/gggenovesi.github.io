@@ -1,9 +1,9 @@
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html lang="en">
 
   <head>
        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-    <link rel="stylesheet" type="text/css" href="serif.css">
+     <link href="serif.css" type="text/css" rel="stylesheet">
      <link rel="canonical" href="https://gggenovesi.github.io">
 </head>
 
