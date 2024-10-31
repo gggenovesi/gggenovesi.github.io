@@ -4,6 +4,7 @@
   <head>
        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <link rel="stylesheet" type="text/css" href="serif.css">
+     <link rel="canonical" href="https://gggenovesi.github.io">
 </head>
 
    
